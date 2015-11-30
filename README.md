@@ -1,3 +1,3 @@
 # Metasploit-Binder
-This is a project from adding metasploit android payload to a Legitime app
+This is a project to bind metasploit android payload to a Legitime app
 
